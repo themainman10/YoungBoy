@@ -1,0 +1,22 @@
+img {
+    width: 20%;
+
+}
+*{
+    background-color: blue;
+}
+.somthing{
+    text-align: center;
+    color: white;
+    border-style: dotted;
+    font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+#other-text{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
